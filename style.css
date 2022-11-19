@@ -1,0 +1,59 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+.subrata{
+    color: chartreuse;
+}
+.section-info{
+    overflow: hidden;
+    width: 40%;
+    float: left;
+    margin: 20px;
+    padding: 30px;
+    margin-top: 50px;
+}
+.welcome{
+    font-size: 50px;
+}
+
+.section-img img{
+
+width: 40%;
+
+border-radius: 50%;
+
+float:
+
+right;
+
+margin-top: 32px;
+
+margin-right: 45px;
+}
+.section-bg{
+    background-image: url(img/spring.png);
+    
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+section{
+    height: 800px;
+}
+.baton{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 10px 20px;
+    display: inline-block;
+    margin-top: 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
